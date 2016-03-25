@@ -1,2 +1,2 @@
-# nicholasyuan.github.com
+# nicholasyuan.github
 my personal website
