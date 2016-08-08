@@ -10,10 +10,10 @@ exclude:
 # Site settings
 title: Musings on AI
 subtitle: "AI, DeepLearning, NLP"
-email: yuanfengcheng@iie.ac.cn
-name: Nicholas Yuan
+# email: yuanfengcheng@iie.ac.cn
+name: Nicholas Yuan 袁凤程
 description: >
-  Yuanfengcheng 袁凤程.
+  袁凤程 nicholas.
 # Base URL of site (i.e. /blog). It should always start with a slash,
 # and never end with a slash. Set it to a blank value if hosting at the
 # root of your server.
