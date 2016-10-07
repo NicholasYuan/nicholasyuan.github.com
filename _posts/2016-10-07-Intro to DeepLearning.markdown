@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Materials about DeepLearning"
-date:   2016-10-07 11:30:
+date:   2016-10-07 11:30:11
 author: nicholas
 categories: DeepLearning
 ---
