@@ -10,11 +10,11 @@ cover:  "/assets/buy-computer/all.jpg"
 从搜集资料，到兼容性、价格比对，到机箱规格，最后到组装机器，安装配置环境，终于在9月份把自己的一台深度学习机器配置完成了。
 最终配置：
 
-- gpu : ASUS ROG [STRIX-GTX1080-8G-GAMING](http://www.asus.com.cn/Compare/Product.aspx?P_ID=1zMvS5oNHEGDTh6Q)
+- GPU : ASUS ROG [STRIX-GTX1080-8G-GAMING](http://www.asus.com.cn/Compare/Product.aspx?P_ID=1zMvS5oNHEGDTh6Q)
 - CPU : Intel i7 [6850k](http://ark.intel.com/zh-cn/products/94188/Intel-Core-i7-6850K-Processor-15M-Cache-up-to-3_80-GHz)
 - 主板 : ASUS X99 A II 
 - 内存 : 金士顿 16G * 4 fury 2400mHz
-- ssd : 三星950 pro
+- ssd  : 三星950 pro
 - 硬盘 : 东芝 3T DT01ACA300 (可以参考我在知乎下的一篇[硬盘选购](https://www.zhihu.com/question/27569776/answer/115022394?from=profile_answer_card))
 - 电源 : 海韵1050W X-1050
 - 机箱 : 迎广 IN WIN 303
