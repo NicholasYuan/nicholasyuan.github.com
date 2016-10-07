@@ -6,23 +6,16 @@ author: nicholas
 categories: DeepLearning
 ---
 
-
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
-
-## Adding New Posts
-
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
-
-不定时更新。
+将不定时更新内容。欢迎讨论。
 
 ## 深度学习的资料
 
-## 书籍
+### 书籍
 
 - [Deep Learning](http://www.deeplearningbook.org) 
     - Bengio 等人写的一本。
     
-## 论文
+### 论文
 
 - Y., L., Y., B., & G., H. (2015). Deep learning. Nature, 521(7553), 436–444. http://doi.org/10.1038/nature14539
     - 发表在nature上，内容涵盖比较广的一篇review
@@ -31,10 +24,23 @@ To add new posts, simply add a file in the `_posts` directory that follows the c
     
 ## 分模型资料
 
-## RNN
+### RNN
 
-## 博客
+- [colah's blog](http://colah.github.io/posts/2015-08-Understanding-LSTMs/#fn1)
+    + 一篇便于理解的RNN入门教程
+- [Andrej Karpathy blog](http://karpathy.github.io/2015/05/21/rnn-effectiveness/)
+    + 一篇简单的自然语言的应用，非常有趣，可以作为第一个实验。
+- [Stanford CS224d](http://cs224d.stanford.edu/index.html)
+    + 既可以作为自然语言处理的入门课程，第3，4节有关于RNN的介绍，可以作为简单的理论补充。
+- [idsia](http://people.idsia.ch/~juergen/rnn.html)
+    + 一处RNN的总结。
 
-ruxia
+
+
+
+
+
+
+
 
 
