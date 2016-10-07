@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "深度学习攒机小计"
+title:  "深度学习攒机小记"
 date:   2016-10-07 14:30:11
 author: nicholas
 categories: DeepLearning
