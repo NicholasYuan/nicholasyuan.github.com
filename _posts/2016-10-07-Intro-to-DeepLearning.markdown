@@ -35,7 +35,25 @@ categories: DeepLearning
 - [idsia](http://people.idsia.ch/~juergen/rnn.html)
     + 一处RNN的总结。
 
+---
+入门知识
+## 机器学习基础知识
 
+### 对BP算法的理解和认识
+
+- [mattmazur.com](https://mattmazur.com/2015/03/17/a-step-by-step-backpropagation-example/)
+    + 对BP的解释，说的很详细
+- [cs231n](http://cs231n.github.io/neural-networks-case-study/)
+    + 实现小实验 
+
+## 编程框架Theano的学习
+
+- [Theano-Tutorial](http://deeplearning.net/software/theano/tutorial/adding.html)
+    + 完成对Baby Steps 和 Examples的编译和学习。
+- [graph structures](http://deeplearning.net/software/theano/extending/graphstructures.html?highlight=graph)
+    + 理解graph structural
+- [use GPU](http://deeplearning.net/software/theano/tutorial/using_gpu.html)
+    + 使用GPU 训练模型
 
 
 
