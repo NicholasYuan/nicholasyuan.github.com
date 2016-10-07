@@ -46,7 +46,7 @@ categories: DeepLearning
 - [cs231n](http://cs231n.github.io/neural-networks-case-study/)
     + 实现小实验 
 
-## 编程框架Theano的学习
+### 编程框架Theano的学习
 
 - [Theano-Tutorial](http://deeplearning.net/software/theano/tutorial/adding.html)
     + 完成对Baby Steps 和 Examples的编译和学习。
