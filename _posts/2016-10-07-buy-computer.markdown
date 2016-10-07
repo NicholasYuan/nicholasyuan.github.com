@@ -8,6 +8,7 @@ categories: DeepLearning
 
 从搜集资料，到兼容性、价格比对，到机箱规格，最后到组装机器，安装配置环境，终于在9月份把自己的一台深度学习机器配置完成了。
 最终配置：
+
 - gpu : ASUS ROG [STRIX-GTX1080-8G-GAMING](http://www.asus.com.cn/Compare/Product.aspx?P_ID=1zMvS5oNHEGDTh6Q)
 - CPU : Intel i7 [6850k](http://ark.intel.com/zh-cn/products/94188/Intel-Core-i7-6850K-Processor-15M-Cache-up-to-3_80-GHz)
 - 主板 : ASUS X99 A II 
@@ -22,6 +23,7 @@ categories: DeepLearning
 说一说自己的目标，就是围绕GTX1080显卡配置一台机器。
 
 然后先说自己收集的资料，主要依照参考了两个博客：
+
 - [深度学习主机攒机小记](http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&mid=2650408303&idx=1&sn=e4a61de98b82028bb49424e7acc4f805&scene=1&srcid=0729ivn68K1Eea5bDFPmCbyk&from=singlemessage&isappinstalled=0#wechat_redirecthttp://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&mid=2650408303&idx=1&sn=e4a61de98b82028bb49424e7acc4f805&scene=1&srcid=0729ivn68K1Eea5bDFPmCbyk&from=singlemessage&isappinstalled=0#wechat_redirecthttp://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&mid=2650408303&idx=1&sn=e4a61de98b82028bb49424e7acc4f805&scene=1&srcid=0729ivn68K1Eea5bDFPmCbyk&from=singlemessage&isappinstalled=0#wechat_redirecthttp://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&mid=2650408303&idx=1&sn=e4a61de98b82028bb49424e7acc4f805&scene=1&srcid=0729ivn68K1Eea5bDFPmCbyk&from=singlemessage&isappinstalled=0#wechat_redirecthttp://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&mid=2650408303&idx=1&sn=e4a61de98b82028bb49424e7acc4f805&scene=1&srcid=0729ivn68K1Eea5bDFPmCbyk&from=singlemessage&isappinstalled=0#wechat_redirecthttp://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&mid=2650408303&idx=1&sn=e4a61de98b82028bb49424e7acc4f805&scene=1&srcid=0729ivn68K1Eea5bDFPmCbyk&from=singlemessage&isappinstalled=0#wechat_redirecthttp://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&mid=2650408303&idx=1&sn=e4a61de98b82028bb49424e7acc4f805&scene=1&srcid=0729ivn68K1Eea5bDFPmCbyk&from=singlemessage&isappinstalled=0#wechat_redirect)
 - [深度学习主机环境配置: Ubuntu16.04+GeForce GTX 1080+TensorFlow](http://www.52nlp.cn/深度学习主机环境配置-ubuntu16-04-geforce-gtx1080-tensorflow)
 
@@ -64,7 +66,8 @@ CPU定下来其实主板的型号就比较好选择了，intel 官网给出的�
 
 对于SSD，确实需要认真说一下，这个坑目前还没有那么大。[知乎](https://www.zhihu.com/question/20369676)上的这个问题的回答很有参考价值，请认真看一下对于颗粒主控的简介。
 而对于SSD的接口，现在有USB、SATA、M2、PCIe 和 NVMe，速度越来越快，价格越来越高。Macbook air 用的是非通用的M2接口，本来还以为可以给自己本更换一下，结果发现是非通用的。M2的SSD体积非常小，PCIe的价格太贵了，比较了几款品牌，最后放在了三星上，三星的950pro还是比850快很多的，于是就买了这一刻，另外951在国内不知道如何买到真货，某宝水太深价格便宜性能强劲，实在不放心。
-![M2](../assets/buy-computer/m2.jpg)
+![M2](/assets/buy-computer/m2.jpg)
+
 
 
 
