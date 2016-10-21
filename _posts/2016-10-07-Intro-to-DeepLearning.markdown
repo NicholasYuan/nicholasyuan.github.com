@@ -35,8 +35,20 @@ categories: DeepLearning
 - [idsia](http://people.idsia.ch/~juergen/rnn.html)
     + 一处RNN的总结。
 
+### 学习课程，课件&视频
+
+- [Ng 在 coursera 上的](https://www.coursera.org/learn/machine-learning/supplement/66jBd/how-to-use-discussion-forums)
+    + 比较经典的入门视频
+- [mathematicalmonk's channel](https://www.youtube.com/playlist?list=PLD0F06AA0D2E8FFBA)
+    + 基础知识比较全，多
+- [Ng 在 standford 的课程](http://cs229.stanford.edu/materials.html)
+    + 只有课件，但是深度广度都很有代表性
+- [Cosma Shalizi 在CMU的机器学习课件](http://www.stat.cmu.edu/~cshalizi/uADA/16/)
+    + 自己作为另一种讲述的补充
+
 ---
 入门知识
+
 ## 机器学习基础知识
 
 ### 对BP算法的理解和认识
